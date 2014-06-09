@@ -1,0 +1,10 @@
+## Conquest Configuration Settings
+---
+settings:
+    ## Game Modes
+    ##  0   Conquest
+    ##  1   Peaceful
+    gamemode: 0
+    ## Grace Period
+    ## The amount of time an Empire is protected for until it can be attacked.
+    graceperiod: 60

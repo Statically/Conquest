@@ -1,0 +1,11 @@
+## YAML Template.
+---
+name: Conquest
+version: 1_0_0_R1
+main: com.blackveiled.plugins.conquest.Conquest
+commands:
+    conquest:
+        description: General information about Conquest.
+        usage: /conquest or /co
+        permission: conquest.info
+        permission-message: You do not have access to this command.
