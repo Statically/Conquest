@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.blackveiled.plugins.conquest.commands;
+package com.Statically.conquest.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

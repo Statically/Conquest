@@ -1,4 +1,4 @@
-package com.blackveiled.plugins.conquest.empires;
+package com.Statically.conquest.empires;
 
 import org.bukkit.Location;
 import org.bukkit.entity.Player;

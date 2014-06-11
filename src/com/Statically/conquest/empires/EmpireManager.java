@@ -1,4 +1,4 @@
-package com.blackveiled.plugins.conquest.empires;
+package com.Statically.conquest.empires;
 
 import java.util.ArrayList;
 import java.util.List;

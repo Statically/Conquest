@@ -1,4 +1,4 @@
-package com.blackveiled.plugins.conquest.players;
+package com.Statically.conquest.players;
 
 import java.io.File;
 import java.io.FileInputStream;

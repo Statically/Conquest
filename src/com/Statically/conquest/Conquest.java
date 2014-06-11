@@ -1,4 +1,4 @@
-package com.blackveiled.plugins.conquest;
+package com.Statically.conquest;
 
 // Imports
 import org.bukkit.plugin.java.JavaPlugin;
