@@ -1,8 +1,8 @@
-package com.blackveiled.plugins.conquest.events;
+package com.Statically.conquest.events;
 
 import org.bukkit.event.Event;
 import org.bukkit.event.HandlerList;
-import com.blackveiled.plugins.conquest.empires.Empire;
+import com.Statically.conquest.empires.Empire;
 
 /**
  * 
