@@ -6,5 +6,5 @@ settings:
     ##  1   Peaceful
     gamemode: 0
     ## Grace Period
-    ## The amount of time an Empire is protected for until it can be attacked.
-    graceperiod: 60
+    ## The amount of time, in hours, that an Empire is protected for until it can be attacked.
+    graceperiod: 24
